@@ -3,7 +3,13 @@
 }
 body{
     margin: 0px;
+    background-image: url('https://iammagnus.com/wp-content/uploads/2016/05/website-design-background-1.jpg');
+    background-repeat: no-repeat;
+    background-attachment:  fixed; 
+    background-position: center;
+    color:  white;
 }
+
 html{
     font-family: Arial, Helvetica, sans-serif;
 }
