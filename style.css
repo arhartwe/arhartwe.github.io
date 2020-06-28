@@ -159,7 +159,7 @@ html {
 @media only screen and (max-width: 320px) {
     body {
         width: 200%;
-        background-image: url('arhartwe.github.io\assets\website-design-arhartwebackground-1_320x920.jpg');
+        background: url("assets/website-design-background-1_320x920.jpg") repeat 0 0;
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
@@ -446,6 +446,9 @@ html {
 @media only screen and (max-width: 1440px) and (min-width: 1025px) {
     body{
         background: url("assets/website-design-background-1.jpg") repeat 0 0;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
     }
     #who{
         margin-bottom: 100px;
@@ -527,6 +530,9 @@ html {
 
     body{
         background: url("assets/website-design-background-1.jpg") repeat 0 0;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
     }
     #who{
         margin-bottom: 100px;
@@ -607,6 +613,9 @@ html {
 @media only screen and (min-width: 2001px) and (max-width: 4000px){
     body{
         background: url("assets/website-design-background-1.jpg") repeat 0 0;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
     }
     #who{
         margin-bottom: 100px;
