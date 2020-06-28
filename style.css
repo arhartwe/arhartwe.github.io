@@ -447,10 +447,7 @@ html {
 
 @media only screen and (max-width: 1440px) and (min-width: 1025px) {
     body{
-        background-image: url('arhartwe.github.io/assets/website-design-background-1.jpg');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-position: center;
+        background: url("assets/website-design-background-1.jpg") repeat 0 0;
     }
     #who{
         margin-bottom: 100px;
@@ -531,10 +528,7 @@ html {
 @media only screen and (max-width: 2000px) and (min-width: 1441px) {
 
     body{
-        background-image: url('arhartwe.github.io/assets/website-design-background-1.jpg');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-position: center;
+        background: url("assets/website-design-background-1.jpg") repeat 0 0;
     }
     #who{
         margin-bottom: 100px;
@@ -614,10 +608,7 @@ html {
 
 @media only screen and (min-width: 2001px) and (max-width: 4000px){
     body{
-        background-image: url('arhartwe.github.io/assets/website-design-background-1.jpg');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-position: center;
+        background: url("assets/website-design-background-1.jpg") repeat 0 0;
     }
     #who{
         margin-bottom: 100px;
