@@ -589,7 +589,7 @@ html {
         height: 510px;
         border-radius: 50%;
         display: block;
-        margin-left: 1625px;
+        margin-left: 625px;
         margin-right: auto;
         margin-top: 180px;
     }   
@@ -625,22 +625,22 @@ html {
     
     *.fa-github {
         color: #333;
-        margin-left: 9em;
+        margin-left: 6.5em;
     }
     
     *.fa-linkedin {
         color: #333;
-        margin-left: 9em;
+        margin-left: 6.5em;
     }
     
     *.fa-envelope {
         color: #333;
-        margin-left: 9em;
+        margin-left: 6.5em;
     }
     
     *.fa-hackerrank {
         color: #333;
-        margin-left: 9em;
+        margin-left: 6.5em;
     }
     #html5{
         max-width: 10%;
@@ -665,7 +665,7 @@ html {
         height: 510px;
         border-radius: 50%;
         display: block;
-        margin-left: 1300px;
+        margin-left: auto;
         margin-right: auto;
         margin-top: 180px;
     }   
