@@ -625,22 +625,22 @@ html {
     
     *.fa-github {
         color: #333;
-        margin-left: 1.9em;
+        margin-left: 2em;
     }
     
     *.fa-linkedin {
         color: #333;
-        margin-left: 1.9em;
+        margin-left: 2em;
     }
     
     *.fa-envelope {
         color: #333;
-        margin-left: 1.9em;
+        margin-left: 2em;
     }
     
     *.fa-hackerrank {
         color: #333;
-        margin-left: 1.9em;
+        margin-left: 2em;
     }
     #html5{
         max-width: 10%;
@@ -665,7 +665,7 @@ html {
         height: 510px;
         border-radius: 50%;
         display: block;
-        margin-left: 1250px;
+        margin-left: auto;
         margin-right: auto;
         margin-top: 180px;
     }   
