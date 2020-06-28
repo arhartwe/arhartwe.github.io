@@ -3,7 +3,11 @@
 }
 
 body {
-    width: 200%;
+    width: 100%;
+    /* background-image: url('arhartwe.github.io\assets\website-design-background-1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; */
 }
 
 html {
@@ -154,13 +158,9 @@ html {
     margin-top: 180px;
 }   
 
-
 @media only screen and (max-width: 320px) {
     body {
-        background-image: url('arhartwe.github.io\assets\website-design-background-1_320x920.jpg');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-position: center;
+        width: 200%;
         }
 
     *.fa-github {
@@ -212,6 +212,9 @@ html {
 }
 
 @media only screen and (max-width: 375px) and (min-width: 321px){
+    body{
+        width: 200%;
+    }
     *.fa-github {
         color: #333;
         margin-left: 1.25em;
@@ -258,21 +261,25 @@ html {
 }
 
 @media only screen and (max-width: 700px) and (min-width: 376px) {
+    body{
+        width: 200%;
+    }
+    
     *.fa-github {
         color: #333;
-        margin-left: 1.5em;
+        margin-left: 1em;
     }
     *.fa-linkedin {
         color: #333;
-        margin-left: 1.5em;
+        margin-left: 2em;
     }
     *.fa-envelope {
         color: #333;
-        margin-left: 1.5em;
+        margin-left: 2em;
     }
     *.fa-hackerrank {
         color: #333;
-        margin-left: 1.5em;
+        margin-left: 2em;
     }
     #html5{
         max-width: 20%;
@@ -297,7 +304,7 @@ html {
         height: 340px;
         border-radius: 50%;
         display: block;
-        margin-left: 230px;
+        margin-left: 225px;
         margin-right: auto;
         margin-top: 180px;
     }  
@@ -308,22 +315,22 @@ html {
 
     *.fa-github {
         color: #333;
-        margin-left: 4em;
+        margin-left: 1.5em;
     }
     
     *.fa-linkedin {
         color: #333;
-        margin-left: 4em;
+        margin-left: 1.5em;
     }
     
     *.fa-envelope {
         color: #333;
-        margin-left: 4em;
+        margin-left: 1.5em;
     }
     
     *.fa-hackerrank {
         color: #333;
-        margin-left: 4em;
+        margin-left: 1.5em;
     }
     #html5{
         max-width: 10%;
@@ -358,20 +365,24 @@ html {
     #who{
         margin-bottom: 100px;
     }
+    
+    body{
+        width: 120%;
+    }
     .intro {
         text-align: center;
-        margin-left: auto;
+        margin-left: 20px;
         margin-right: auto;
         font-size: 48px;
         word-wrap: break-word;
-        width: 950px;
+        width: 1200px;
         font-weight: bolder;
      
     }
 
     .describe {
         text-align: center;
-        margin-left: auto;
+        margin-left:  10px;
         margin-right: auto;
         font-size: 48px;
         word-wrap: break-word;
@@ -383,39 +394,40 @@ html {
 
     *.fa-github {
         color: #333;
-        margin-left: 5em;
+        margin-left: 2.75em;
     }
     
     *.fa-linkedin {
         color: #333;
-        margin-left: 5em;
+        margin-left: 2.75em;
     }
     
     *.fa-envelope {
         color: #333;
-        margin-left: 5em;
+        margin-left: 2.75em;
     }
     
     *.fa-hackerrank {
         color: #333;
-        margin-left: 5em;
+        margin-left: 2.75em;
     }
     #html5{
-        max-width: 10%;
+        max-width: 17%;
+        margin-left: 60px;
     }
     #css3{
-        max-width: 7%;
-        margin-right: 60px;
+        max-width: 12%;
+        margin-left: 100px;
     }
     
     #visual{
-        max-width: 8%;
-        margin-right: 60px;
+        max-width: 14%;
+        margin-left: 100px;
     }
     
     #bash{
-        max-width: 9%;
-        margin-right: 60px;
+        max-width: 16%;
+        margin-left: 100px;
     }
 
     .pic img{
@@ -423,7 +435,7 @@ html {
         height: 510px;
         border-radius: 50%;
         display: block;
-        margin-left: 750px;
+        margin-left: 340px;
         margin-right: auto;
         margin-top: 180px;
     }   
@@ -505,14 +517,9 @@ html {
     }   
 }
 
-@media only screen and (max-width: 1920px) and (min-width: 1441px) {
+@media only screen and (max-width: 2000px) and (min-width: 1441px) {
 
-    body {
-    background-image: url('arhartwe.github.io\assets\website-design-background-1.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    }
+    
     #who{
         margin-bottom: 100px;
     }
@@ -542,22 +549,22 @@ html {
     
     *.fa-github {
         color: #333;
-        margin-left: 11em;
+        margin-left: 15em;
     }
     
     *.fa-linkedin {
         color: #333;
-        margin-left: 11em;
+        margin-left: 15em;
     }
     
     *.fa-envelope {
         color: #333;
-        margin-left: 11em;
+        margin-left: 15em;
     }
     
     *.fa-hackerrank {
         color: #333;
-        margin-left: 11em;
+        margin-left: 15em;
     }
     #html5{
         max-width: 10%;
@@ -588,7 +595,7 @@ html {
     }   
 }
 
-@media only screen and (min-width: 1921px) {
+@media only screen and (min-width: 2001px) and (max-width: 4000px){
     #who{
         margin-bottom: 100px;
     }
@@ -618,22 +625,22 @@ html {
     
     *.fa-github {
         color: #333;
-        margin-left: 15em;
+        margin-left: 9em;
     }
     
     *.fa-linkedin {
         color: #333;
-        margin-left: 15em;
+        margin-left: 9em;
     }
     
     *.fa-envelope {
         color: #333;
-        margin-left: 15em;
+        margin-left: 9em;
     }
     
     *.fa-hackerrank {
         color: #333;
-        margin-left: 15em;
+        margin-left: 9em;
     }
     #html5{
         max-width: 10%;
@@ -658,7 +665,7 @@ html {
         height: 510px;
         border-radius: 50%;
         display: block;
-        margin-left: 2275px;
+        margin-left: 1300px;
         margin-right: auto;
         margin-top: 180px;
     }   
