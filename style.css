@@ -163,6 +163,7 @@ html {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
+        background-size: 100%;
         }
 
     *.fa-github {
@@ -216,6 +217,11 @@ html {
 @media only screen and (max-width: 375px) and (min-width: 321px){
     body{
         width: 200%;
+        background: url("assets/website-design-background-1.jpg") repeat 0 0;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: 100%;
     }
     *.fa-github {
         color: #333;
@@ -265,6 +271,11 @@ html {
 @media only screen and (max-width: 700px) and (min-width: 376px) {
     body{
         width: 200%;
+        background: url("assets/website-design-background-1.jpg") repeat 0 0;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: 100%;
     }
     
     *.fa-github {
@@ -314,7 +325,13 @@ html {
 
 
 @media only screen and (max-width: 800px) and (min-width: 701px) {
-
+    body{
+        background: url("assets/website-design-background-1.jpg") repeat 0 0;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: 100%;
+    }
     *.fa-github {
         color: #333;
         margin-left: 1.5em;
@@ -370,6 +387,11 @@ html {
     
     body{
         width: 120%;
+        background: url("assets/website-design-background-1.jpg") repeat 0 0;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: 100%;
     }
     .intro {
         text-align: center;
@@ -449,6 +471,7 @@ html {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
+        background-size: 100%;
     }
     #who{
         margin-bottom: 100px;
@@ -533,6 +556,7 @@ html {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
+        background-size: 100%;
     }
     #who{
         margin-bottom: 100px;
@@ -616,6 +640,7 @@ html {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
+        background-size: 100%;
     }
     #who{
         margin-bottom: 100px;
