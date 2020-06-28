@@ -163,7 +163,8 @@ html {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
-        background-size: 100%;
+        background-size: 100% 100%;
+        
         }
 
     *.fa-github {
@@ -221,7 +222,7 @@ html {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
-        background-size: 100%;
+        background-size: 100% 100%;
     }
     *.fa-github {
         color: #333;
@@ -275,7 +276,7 @@ html {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
-        background-size: 100%;
+        background-size: 100% 100%;
     }
     
     *.fa-github {
@@ -330,7 +331,7 @@ html {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
-        background-size: 100%;
+        background-size: 100% 100%;
     }
     *.fa-github {
         color: #333;
@@ -391,7 +392,7 @@ html {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
-        background-size: 100%;
+        background-size: 100% 100%;
     }
     .intro {
         text-align: center;
@@ -471,7 +472,7 @@ html {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
-        background-size: 100%;
+        background-size: 100% 100%;
     }
     #who{
         margin-bottom: 100px;
@@ -556,7 +557,7 @@ html {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
-        background-size: 100%;
+        background-size: 100% 100%;
     }
     #who{
         margin-bottom: 100px;
@@ -640,7 +641,7 @@ html {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
-        background-size: 100%;
+        background-size: 100% 100%;
     }
     #who{
         margin-bottom: 100px;
