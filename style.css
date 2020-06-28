@@ -549,22 +549,22 @@ html {
     
     *.fa-github {
         color: #333;
-        s
+        margin-left: 5em;
     }
     
     *.fa-linkedin {
         color: #333;
-        margin-left: 15em;
+        margin-left: 5em;
     }
     
     *.fa-envelope {
         color: #333;
-        margin-left: 15em;
+        margin-left: 5em;
     }
     
     *.fa-hackerrank {
         color: #333;
-        margin-left: 15em;
+        margin-left: 5em;
     }
     #html5{
         max-width: 10%;
@@ -625,22 +625,22 @@ html {
     
     *.fa-github {
         color: #333;
-        margin-left: 2em;
+        margin-left: 6.5em;
     }
     
     *.fa-linkedin {
         color: #333;
-        margin-left: 2em;
+        margin-left: 6.5em;
     }
     
     *.fa-envelope {
         color: #333;
-        margin-left: 2em;
+        margin-left: 6.5em;
     }
     
     *.fa-hackerrank {
         color: #333;
-        margin-left: 2em;
+        margin-left: 6.5em;
     }
     #html5{
         max-width: 10%;
